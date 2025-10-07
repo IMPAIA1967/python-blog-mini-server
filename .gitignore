@@ -1,0 +1,17 @@
+# IDE
+.idea/
+
+# Виртуальные окружения
+venv/
+env/
+ENV/
+
+# Кэш Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Базы данных SQLite
+*.sqlite3
+*.db
+*.sqlite
